@@ -1,0 +1,51 @@
+[
+  {
+    "path": "/",
+    "component": "/Users/ziying.wang/personalSpace/realworld-nuxtjs/pages/layout",
+    "children": [
+      {
+        "path": "",
+        "name": "home",
+        "component": "/Users/ziying.wang/personalSpace/realworld-nuxtjs/pages/home",
+        "_name": "_3518e4d6"
+      },
+      {
+        "path": "/login",
+        "name": "login",
+        "component": "/Users/ziying.wang/personalSpace/realworld-nuxtjs/pages/login",
+        "_name": "_6d93251a"
+      },
+      {
+        "path": "/register",
+        "name": "register",
+        "component": "/Users/ziying.wang/personalSpace/realworld-nuxtjs/pages/login",
+        "_name": "_6d93251a"
+      },
+      {
+        "path": "/profile/:username",
+        "name": "profile",
+        "component": "/Users/ziying.wang/personalSpace/realworld-nuxtjs/pages/profile",
+        "_name": "_2e77ad33"
+      },
+      {
+        "path": "/settings",
+        "name": "settings",
+        "component": "/Users/ziying.wang/personalSpace/realworld-nuxtjs/pages/settings",
+        "_name": "_31be09d9"
+      },
+      {
+        "path": "/editor",
+        "name": "editor",
+        "component": "/Users/ziying.wang/personalSpace/realworld-nuxtjs/pages/editor",
+        "_name": "_510b64a3"
+      },
+      {
+        "path": "/article/:slug",
+        "name": "article",
+        "component": "/Users/ziying.wang/personalSpace/realworld-nuxtjs/pages/article",
+        "_name": "_1541f080"
+      }
+    ],
+    "_name": "_5cda3e60"
+  }
+]
