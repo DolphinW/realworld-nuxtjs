@@ -1,2 +1,2 @@
-// realworldtoken
-// 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
+// REALWORLDTOKEN
+// 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
